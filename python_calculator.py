@@ -12,7 +12,7 @@ def calculate(num1,num2,op):
 def showmenu():
     inputval=""
     while inputval!="e":
-        print("Welcome to my calculator")
+        print("Welcome to DJokerjay calculator (Python)")
         print("+ = Addition")
         print("- = Subtraction")                
         print("* = Multiplication")
